@@ -1,6 +1,6 @@
 # Hey, I'm Koray!
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
 
 ## I'm a Junior Software Developer
 
@@ -11,7 +11,7 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
+<img align="right" alt="GIF" height="170px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <img align="right" src="https://komarev.com/ghpvc/?username=KorayBarkin&color=blueviolet"/>
 
