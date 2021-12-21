@@ -17,8 +17,8 @@
 
 ### Contact with me 📝
 MAIL: koraybarkin7@gmail.com
-[<img align="left" alt="koraybarkin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="koraybarkin | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
+[<img align="left" alt="koraybarkin | LinkedIn" height="30px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1640115646~hmac=3c9976654b6ac1e2fca4d41bc2c1d8a6"/>][linkedin]
+[<img align="left" alt="koraybarkin | Instagram" height="30px" src="https://www.flaticon.com/free-icon/instagram_174855" />][instagram]
 
 <br />
 
