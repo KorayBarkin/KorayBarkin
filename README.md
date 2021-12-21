@@ -5,9 +5,8 @@
 ## Flutter & Python Developer
 
 - 💻 I’m currently working on Flutter, Swift and Python.
-- 📚 Interested in Blockchain technology and AI. 
-- 💪🏼 Future Goals: Creating a start-up company.
-- ⚡ Fun fact: Former basketball player, F1 & Football enthusiast!
+- 📚 Interested in Blockchain technology, Metaverse and AI. 
+- ⚡ Former basketball player, F1 & Football enthusiast!
 
 ---
 
