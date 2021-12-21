@@ -2,12 +2,12 @@
 
 <img align="right" alt="GIF" height="160px" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
 
-## I'm a Junior Software Developer
+## Flutter & Python Developer
 
-- 💻 I’m currently working on Flutter and Python.
-- 📚 I’m currently learning everything about Flutter to become an expert!
+- 💻 I’m currently working on Flutter, Swift and Python.
+- 📚 Interested in Blockchain technology and AI. 
 - 💪🏼 Future Goals: Creating a start-up company.
-- ⚡ Fun fact: Former basketball player, plus I'm a huge fan of Besiktas! 
+- ⚡ Fun fact: Former basketball player, F1 & Football enthusiast!
 
 ---
 
@@ -16,7 +16,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=KorayBarkin&color=blueviolet"/>
 
 ### Contact with me 📝
-
+MAIL: koraybarkin7@gmail.com
 [<img align="left" alt="koraybarkin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
 [<img align="left" alt="koraybarkin | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
 
