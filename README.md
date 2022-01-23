@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
 
-## Flutter & Python Developer
+## Mobile - Web - Python Developer
 
 - 💻 I’m currently working on Flutter, Swift and Python.
 - 📚 Interested in Blockchain technology, Metaverse and AI. 
