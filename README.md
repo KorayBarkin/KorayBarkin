@@ -2,10 +2,10 @@
 
 <img align="right" alt="GIF" height="160px" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
 
-## Mobile - Web - Python Developer
+## Blockchain Developer
 
-- 💻 I’m currently working on Flutter, Swift and Python.
-- 📚 Interested in Blockchain technology, Metaverse and AI. 
+- 💻 I’m currently working on NodeJS, Solidity and Smart Contracts.
+- 📚 Interested in Blockchain technology, Flutter and AI. 
 - ⚡ Former basketball player, F1 & Football enthusiast!
 
 ---
