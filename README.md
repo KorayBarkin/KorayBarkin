@@ -16,7 +16,7 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="koraybarkin | Gmail" height="30px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504727.png?token=exp=1640117643~hmac=c75448fe0949fd0702919337874ab990"/>][gmail]
+[<img align="left" alt="koraybarkin | Gmail" height="30px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-gmail-social-media-justicon-lineal-color-justicon.png"/>][gmail]
 [<img align="left" alt="koraybarkin | LinkedIn" height="30px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1640115646~hmac=3c9976654b6ac1e2fca4d41bc2c1d8a6"/>][linkedin]
 [<img align="left" alt="koraybarkin | Instagram" height="30px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1640117608~hmac=77f790a9581b03bcc4b7378dcc708b99" />][instagram]
 
